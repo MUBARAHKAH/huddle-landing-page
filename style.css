@@ -200,7 +200,7 @@ footer .social-icon{
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  gap: 50px;
+  gap: 30px;
   padding-top: 20px;
   filter: brightness(0) invert(1);
 }
@@ -410,10 +410,5 @@ footer .instagram-icon::before{
     right:-104px;
     position: absolute;
   }
-  
-  footer .social-icon{
-    display: flex;
-    flex-direction: row;
-    gap: 100px;
-  }
+ 
 }
