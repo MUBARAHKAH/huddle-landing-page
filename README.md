@@ -27,7 +27,7 @@ The challenge was designed for both desktop and mobile screen users.
 ### Links
 ### Links
 - Solution URL: [Github](https://github.com/MUBARAHKAH/huddle-landing-page.git)
-- Live Site URL: [Livesite](https://mubarahkah.github.io/testimonials-grid-section/)
+- Live Site URL: [Livesite](https://mubarahkah.github.io/huddle-landing-page/)
 
 ## My process
 
