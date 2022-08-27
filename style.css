@@ -370,38 +370,11 @@ footer .instagram-icon::before{
 }
 }
 
-@media(max-width: 447px){
-  header .communities p{
-   padding-left: 30px;
-   padding-right: 30px;
-   font-size: 20px;
- }
+@media(max-width: 375px){
   main .ready{
     margin-top: 75px;
     padding: 20px 20px;
   }
-
-  footer .copyright{
-    font-size: 12px;
-  }
-
-  footer .facebook-icon::before{
-    position: absolute;
-    right: 220px;
-  }
-
-  footer .twitter-icon::before{
-    position: absolute;
-    right: 80px;
-  }
-
-  footer .instagram-icon::before{
-    position: absolute;
-    right: 150px;
-  }
-}
-
-@media(max-width: 382px){
 
   header .communities p{
    padding-left: 30px;
@@ -409,19 +382,32 @@ footer .instagram-icon::before{
    font-size: 18px;
  }
 
+  header .free-link{
+    padding: 5px 15px;
+  }
+
+  footer .copyright{
+    font-size: 12px;
+  }
+
   footer .facebook-icon::before{
+    content: "";
+    top: -10px;
+    right: -250px;
     position: absolute;
-    right: 45px;
   }
 
   footer .twitter-icon::before{
+    content: "";
+    top: -10px;
+    right:-180px;
     position: absolute;
-    right: 190px;
   }
 
   footer .instagram-icon::before{
+    content: "";
+    top: -10px;
+    right:-104px;
     position: absolute;
-    right: 115px;
   }
-
 }
