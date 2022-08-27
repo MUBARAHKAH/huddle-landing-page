@@ -410,4 +410,10 @@ footer .instagram-icon::before{
     right:-104px;
     position: absolute;
   }
+  
+  footer .social-icon{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+  }
 }
