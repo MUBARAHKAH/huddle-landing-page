@@ -371,6 +371,11 @@ footer .instagram-icon::before{
 }
 
 @media(max-width: 447px){
+  header .communities p{
+   padding-left: 30px;
+   padding-right: 30px;
+   font-size: 20px;
+ }
   main .ready{
     margin-top: 75px;
     padding: 20px 20px;
@@ -396,10 +401,17 @@ footer .instagram-icon::before{
   }
 }
 
-@media(max-width: 375px){
+@media(max-width: 382px){
+
+  header .communities p{
+   padding-left: 30px;
+   padding-right: 30px;
+   font-size: 18px;
+ }
+
   footer .facebook-icon::before{
     position: absolute;
-    right: 40px;
+    right: 45px;
   }
 
   footer .twitter-icon::before{
