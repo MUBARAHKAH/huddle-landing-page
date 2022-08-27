@@ -414,6 +414,6 @@ footer .instagram-icon::before{
   footer .social-icon{
     display: flex;
     flex-direction: row;
-    gap: 10px;
+    gap: 100px;
   }
 }
